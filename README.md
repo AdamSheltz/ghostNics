@@ -7,4 +7,4 @@ This is an attempt to find ghost nics that are assosciated within AKS clusters.
 IF the cluster or a nodepool was created after late 2023 (October-December)*, there are better methods within Azure to identify and remove ghost nics. 
 
 
-* Need to verify date 2024.04.03
+*Need to verify date 2024.04.03
